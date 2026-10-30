@@ -16,9 +16,3 @@ A guarded front door. A destructive operation that found another route. Read the
 [Illustrated PDF](posts/001-queue/issue.pdf) · [Comic 1](posts/001-queue/social-comic-1.png) · [Comic 2](posts/001-queue/social-comic-2.png)
 
 Other issues remain in preparation.
-
-## How issues are organized
-
-Each approved issue will live in `posts/<issue-slug>/` with its complete Markdown story, cover, three-panel comic, and illustrated PDF. Scenes and dialogue are fictional metaphors; public advisory facts and engineering interpretations are identified separately. Source links and maintainer/researcher credits accompany each story.
-
-Original comic series and artwork direction: KTHXBOOM! Press. No vendor endorsement implied. This repository does not deploy a website or change DNS.
