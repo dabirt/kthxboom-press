@@ -1,9 +1,13 @@
 # The Queue That Disappeared Before Login
 
-> Public review edition — feedback and editorial revisions welcome.
-
 **KTHXBOOM! Press · The Engineer’s Folly · Issue #001**  
 Research and editorial: [Dan Birtwhistle (@dabirt)](https://github.com/dabirt)
+
+I’ve spent the past few months heads down with frontier models and agentic tools, researching security flaws in popular software. It’s been fascinating, occasionally ridiculous, and maybe worth sharing...
+
+So I’m starting a series I call **KTHXBOOM! Press**: my vulnerability research, told through comics, technical evidence, and the assumptions that failed.
+
+First up: **The Queue That Disappeared Before Login.**
 
 ![Cover: The Queue That Disappeared Before Login. Fictional robot guard blocks a warehouse entrance while archive boxes leave through a side door.](cover-1200.png)
 
@@ -71,7 +75,7 @@ On a loopback-only Artemis 2.56.0-SNAPSHOT instance, a restricted authenticated 
 
 The useful contrast is the disagreement between two authority paths. It does not demonstrate arbitrary-queue deletion, message disclosure, or code execution. The reference correction was a researcher control, not a replay of Apache’s final 2.57.0 release.
 
-*Evidence: original research records supplied for editorial review. These observations have not been independently rerun for this publication. Public upstream fixes and tests are linked separately below.*
+*Evidence: original research observations. These observations have not been independently rerun for this publication. Public upstream fixes and tests are linked separately below.*
 
 ## The assumption that broke
 
