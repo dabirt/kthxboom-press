@@ -1,6 +1,6 @@
 # KTHXBOOM! Press
 
-Independent security research and illustrated engineering stories by Daniel Birtwhistle.
+Independent security research and illustrated engineering stories by Dan Birtwhistle.
 
 ## The Agentic Bug Files
 
