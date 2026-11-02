@@ -6,7 +6,7 @@ Independent security research and illustrated engineering stories by Dan Birtwhi
 
 An original comic series about the assumptions that break software. Stories explore the assumptions behind disclosed vulnerabilities, with original comics, bounded research observations, and links to fixes.
 
-## Read the first issue
+## Read the issues
 
 **[001 — The Queue That Disappeared Before Login](posts/001-queue/README.md)**  
 Apache Artemis · CVE-2026-67593 · Published October 30, 2026
@@ -14,5 +14,12 @@ Apache Artemis · CVE-2026-67593 · Published October 30, 2026
 A guarded front door. A destructive operation that found another route. Read the illustrated story, research observations, impact limits, and public fixes.
 
 [Illustrated PDF](posts/001-queue/issue.pdf) · [Comic 1](posts/001-queue/social-comic-1.png) · [Comic 2](posts/001-queue/social-comic-2.png)
+
+**[002 — Wireshark: The Measuring Tape That Lied](posts/002-measuring-tape/README.md)**  
+Wireshark · CVE-2026-76887 · Public review edition · November 2, 2026
+
+The counter wrapped. The shipment didn’t. A comic about shared packet reassembly, a heap overflow, and the analyzer that crashed. The scan imagery depicts the documented DICOM route.
+
+[Illustrated PDF](posts/002-measuring-tape/issue.pdf) · [Comic 1](posts/002-measuring-tape/social-comic-1.png) · [Comic 2](posts/002-measuring-tape/social-comic-2.png)
 
 Other issues remain in preparation.
