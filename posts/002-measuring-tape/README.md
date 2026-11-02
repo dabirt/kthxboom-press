@@ -3,7 +3,7 @@
 **KTHXBOOM! Press · Bug Noir · Issue #002**  
 Research and editorial: [Dan Birtwhistle (@dabirt)](https://github.com/dabirt)
 
-![Cover: Wireshark: The Measuring Tape That Lied. A rolling counter shows a small total as a clerk chooses a tiny box for a conveyor full of synthetic scan sheets; the packing station later overflows and collapses.](cover-1200.png)
+![Cover: Wireshark: The Measuring Tape That Lied. Assumption holds a yellow measuring tape beside a tiny box while varied synthetic chest, hand, knee, spine, brain, and abdominal scan films arrive on a conveyor.](cover-1200.png)
 
 The counter wrapped. The shipment didn’t. The packing station paid for the disagreement.
 
@@ -11,13 +11,13 @@ The counter wrapped. The shipment didn’t. The packing station paid for the dis
 
 **Data in this story:** DICOM PDV data / shared reassembly
 
-![Three-panel fictional comic. Panel 1: The counter rolls over. Assumption picks a tiny box for many synthetic scan sheets: the DICOM PDV-data route to shared Wireshark reassembly. Panel 2: The sheets keep arriving. They burst past the undersized box and buckle the packing station: a metaphor for copying beyond allocated memory. Panel 3: REASSEMBLY HALTED. The packing station collapses: Wireshark can crash. The scans represent DICOM traffic; no medical-device failure is established.](comic-1200.webp)
+![Three-panel fictional comic. Panel 1: Assumption measures a tiny box as the counter rolls over. Varied synthetic scan sheets represent the DICOM route to shared Wireshark reassembly. Panel 2: The sheets keep arriving. They burst past the undersized box and buckle the packing station: a metaphor for copying beyond allocated memory. Panel 3: REASSEMBLY HALTED. The packing station collapses: Wireshark can crash. The scans represent DICOM traffic; no medical-device failure is established.](comic-1200.webp)
 
 ### Panel 1: The counter wraps. The shipment does not.
 
 > According to the total, this should fit.
 
-The counter rolls over. Assumption picks a tiny box for many synthetic scan sheets: the DICOM PDV-data route to shared Wireshark reassembly.
+Assumption measures a tiny box as the counter rolls over. Varied synthetic scan sheets represent the DICOM route to shared Wireshark reassembly.
 
 ### Panel 2: Overflow at the packing station
 
@@ -57,7 +57,7 @@ Wireshark or TShark can crash while inspecting a sufficiently large crafted stre
 
 ## The assumption
 
-The counter rolls over. A huge quantity of normal-sized scan sheets keeps arriving, although Assumption has selected a tiny box. The sheets burst past the box, buckle the packing table, and leave the station collapsed: **the analyzer has crashed**.
+Assumption has a measuring tape, a tiny box, and confidence in the total. The counter rolls over. A huge quantity of normal-sized synthetic scan sheets keeps arriving, with varied chest, hand, knee, spine, brain, and abdominal images. The sheets burst past the box, buckle the packing table, and leave the station collapsed: **the analyzer has crashed**.
 
 The scan sheets depict the **DICOM route only**. SMTP supplied mail data, and WebSocket supplied fragmented message data; the medical imagery is not a claim about those other payloads.
 
