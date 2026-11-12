@@ -22,4 +22,11 @@ The counter wrapped. The shipment didn’t. A comic about shared packet reassemb
 
 [Illustrated PDF](posts/002-measuring-tape/issue.pdf) · [Comic 1](posts/002-measuring-tape/social-comic-1.png) · [Comic 2](posts/002-measuring-tape/social-comic-2.png)
 
+**[003 — Jackson Databind: The Librarian Who Never Forgot](posts/003-librarian/README.md)**  
+Jackson Databind · CVE-2026-91776 · Published November 12, 2026
+
+10,000 names. One answer. Somehow, 10,000 index cards. A three-panel story about retained type IDs, an overwhelmed library, and a finite filing policy.
+
+[Illustrated PDF](posts/003-librarian/issue.pdf) · [Comic 1](posts/003-librarian/social-comic-1.png) · [Comic 2](posts/003-librarian/social-comic-2.png) · [Comic 3](posts/003-librarian/social-comic-3.png)
+
 Other issues remain in preparation.
