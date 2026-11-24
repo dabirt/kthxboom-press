@@ -29,4 +29,11 @@ Jackson Databind · CVE-2026-91776 · Published November 12, 2026
 
 [Illustrated PDF](posts/003-librarian/issue.pdf) · [Comic 1](posts/003-librarian/social-comic-1.png) · [Comic 2](posts/003-librarian/social-comic-2.png) · [Comic 3](posts/003-librarian/social-comic-3.png)
 
+**[007 — POCO: The Certificate That Wasn’t Checked](posts/007-certificate/README.md)**  
+POCO C++ Libraries · GHSA-xmgr-9wvg-r67x · GHSA-8gjp-96jp-4wh9 · Published November 24, 2026
+
+The paperwork was immaculate. The identity check was more of a vibe. A three-panel story about the wrong server, a false certificate-status response, and what each check actually proves.
+
+[Illustrated PDF](posts/007-certificate/issue.pdf) · [Comic 1](posts/007-certificate/social-comic-1.png) · [Comic 2](posts/007-certificate/social-comic-2.png) · [Comic 3](posts/007-certificate/social-comic-3.png)
+
 Other issues remain in preparation.
